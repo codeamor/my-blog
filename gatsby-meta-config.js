@@ -7,10 +7,10 @@ module.exports = {
   social: {
     twitter: ``, // Your Twitter account
 
-    github: `https://github.com/codeamor`, // Your GitHub account
+    github: `codeamor`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    linkedin: `sumin-son-1aa671142`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
