@@ -4,10 +4,13 @@ date: 2019-1-27 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# Sumin Son
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+07/05/1997
+Seoul, Korea
+Seoul National University of Science & technology<br>
+Front-End Developer (2020 ~ing)
 
 </div>
