@@ -8,9 +8,9 @@ lang: 'en'
 
 <div align="center">
 
-07/05/1997
-Seoul, Korea
-Seoul National University of Science & technology<br>
+07/05/1997<br>
+Seoul, Korea<br>
+Seoul National University of Science & technology<br><br>
 Front-End Developer (2020 ~ing)
 
 </div>
