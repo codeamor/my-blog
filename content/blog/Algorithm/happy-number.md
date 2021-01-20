@@ -1,5 +1,5 @@
 ---
-title: LeetCode | easy | 101. Happy Number
+title: LeetCode | easy | 202. Happy Number
 date: 2021-01-21 07:01:46
 category: algorithm
 thumbnail: { thumbnailSrc }
