@@ -20,15 +20,7 @@ A happy number is a number defined by the following process:
 
 > 예시
 
-```
-Input: n = 19
-Output: true
-Explanation:
-12 + 92 = 82
-82 + 22 = 68
-62 + 82 = 100
-12 + 02 + 02 = 1
-```
+![image](https://user-images.githubusercontent.com/65898889/105259922-1fd04480-5bd0-11eb-82af-4bdc4795f15f.png)
 
 ```
 Input: n = 2
