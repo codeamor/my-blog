@@ -67,6 +67,7 @@ let climbStairs = function(n) {
 
     return savedResults[stairsRemaining]
   }
+  // 메모이제이션
   // 재귀 호출 시, 반복적으로 계산되는 것들의 계산 횟수를 줄이기 위해 이전에 계산했던 값을 저장해두고 나중에 재사용합니다.
   return countingFunc(n, {})
 }
