@@ -1,9 +1,11 @@
 ---
-title: 'Bible Project'
+title: 'Toy | Biblity'
 date: 2021-01-20
 category: 'toy'
 draft: false
 ---
+
+# Bible + Ability
 
 # 기획 의도
 
@@ -159,7 +161,7 @@ draft: false
 > 총 66권
 
 - 장수: 1189
-- 글자 수: 1,331,678
+- 글자수: 1,331,678
 
 # 디자인
 
