@@ -1,5 +1,5 @@
 ---
-title: Book | 일과 영성 - 2
+title: Book | 일과 영성 - 3
 date: 2021-01-23 01:01:31
 category: book
 thumbnail: { thumbnailSrc }
