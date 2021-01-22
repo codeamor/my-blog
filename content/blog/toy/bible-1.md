@@ -24,23 +24,23 @@ draft: false
 
 창세기- Genesis
 
-출애굽기 - Exodus
+출애굽기- Exodus
 
-레위기 - Leviticus
+레위기- Leviticus
 
-민수기 - Numbers
+민수기- Numbers
 
-신명기 - Deuteronomy
+신명기- Deuteronomy
 
-여호수아 - Joshua
+여호수아- Joshua
 
-사사기 - Judges
+사사기- Judges
 
-룻기 - Ruth
+룻기- Ruth
 
-사무엘상 - Ⅰ Samuel
+사무엘상- Ⅰ Samuel
 
-사무엘하 -Ⅱ Samuel
+사무엘하-Ⅱ Samuel
 
 열왕기상- Ⅰ Kings
 
@@ -50,55 +50,55 @@ draft: false
 
 역대기하- Ⅱ Chronicles
 
-에스라 - Ezra
+에스라- Ezra
 
 느헤미야- Nehemiah
 
-에스더 - Esther
+에스더- Esther
 
-옵기 - Job
+욥기- Job
 
-시편 - Psalms
+시편- Psalms
 
-잠언 - Proverbs
+잠언- Proverbs
 
-전도서 - Ecclesiastes
+전도서- Ecclesiastes
 
-아가 - Song of Songs
+아가- Song of Songs
 
-이사야 - Isaiah
+이사야- Isaiah
 
-예레미야 - Jeremiah
+예레미야- Jeremiah
 
-애가 - Lamentations
+애가- Lamentations
 
-에스겔 - Ezekiel
+에스겔- Ezekiel
 
-다니엘 - Daniel
+다니엘- Daniel
 
-호세아 - Hosea
+호세아- Hosea
 
-요엘 - Joel
+요엘- Joel
 
-아모스 - Amos
+아모스- Amos
 
-오바댜 - Obadiah
+오바댜- Obadiah
 
-요나 - Jonah
+요나- Jonah
 
-미가 - Micah
+미가- Micah
 
-나훔 - Nahum
+나훔- Nahum
 
-하박국 - Habakkuk
+하박국- Habakkuk
 
-스바냐 - Zephaniah
+스바냐- Zephaniah
 
-학개 - Haggai
+학개- Haggai
 
-스가랴 - Zechariah
+스가랴- Zechariah
 
-말라기 - Malachi
+말라기- Malachi
 
 <br>
 
@@ -114,11 +114,11 @@ draft: false
 
 사도행전- Acts
 
-로마서 -Romans
+로마서- Romans
 
-고린도전서- ⅠCorinthians
+고린도전서- Ⅰ Corinthians
 
-고린도후서- ⅡCorinthians
+고린도후서- Ⅱ Corinthians
 
 갈라디아서- Galatians
 
@@ -128,19 +128,19 @@ draft: false
 
 골로새서- Colossians
 
-데살로니가 전서 - Ⅰ Thessalonians
+데살로니가전서- Ⅰ Thessalonians
 
-데살로니가 후서- Ⅱ Thessalonians
+데살로니가후서- Ⅱ Thessalonians
 
-디모데전서 -Ⅰ Timothy
+디모데전서-Ⅰ Timothy
 
 디모데후서- Ⅱ Timothy
 
-디 도 서- Titus
+디도서- Titus
 
 빌레몬서- Philemon
 
-히브리서 - Hebrews
+히브리서- Hebrews
 
 야고보서- James
 
@@ -150,13 +150,13 @@ draft: false
 
 요한 1서- Ⅰ John
 
-요한 2서 - Ⅱ John
+요한 2서- Ⅱ John
 
 요한 3서- Ⅲ John
 
 유다서- Jude
 
-요한 게시록- Revelation
+요한계시록- Revelation
 
 > 총 66권
 
