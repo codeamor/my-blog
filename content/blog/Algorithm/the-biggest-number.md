@@ -1,5 +1,5 @@
 ---
-title: Programmers | 정렬 | 가장 큰 수
+title: Programmers | Lv.2 | 가장 큰 수
 date: 2021-01-23 21:01:63
 category: algorithm
 thumbnail: { thumbnailSrc }
@@ -83,3 +83,9 @@ function solution(numbers) {
 <br>
 
 ![image](https://user-images.githubusercontent.com/65898889/105579184-4658d000-5dc8-11eb-8657-318c87b13ec3.png)
+
+<br>
+
+# Reference
+
+[Programmers](https://programmers.co.kr/learn/courses/30/lessons/42746?language=javascript)
