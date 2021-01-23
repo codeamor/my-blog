@@ -18,6 +18,9 @@ var friendship1 = {
     // 객체 리터럴에서의 this는 friendship1을 가리킵니다.
     // 따라서 변수 that도 friendship1을 가리키게 됩니다.
     var that = this;
+    this.friends.forEach(function(friend) {
+      console.log(that.name, friend);
+    })
   }
 }
 
