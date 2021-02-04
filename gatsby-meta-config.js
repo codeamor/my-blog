@@ -11,7 +11,6 @@ module.exports = {
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: `sumin-son-1aa671142`, // Your LinkedIn account
-    velog: `https://velog.io/@codeamor`
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
