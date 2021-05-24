@@ -50,6 +50,9 @@ export const Bio = () => (
                       LinkedIn
                     </a>
                   )}
+                  {social.velog && (
+                    <a href={`https://velog.io/@${social.velog}/`}>velog</a>
+                  )}
                 </p>
               </div>
             </div>
@@ -79,6 +82,7 @@ const bioQuery = graphql`
           medium
           facebook
           linkedin
+          velog
         }
       }
     }
